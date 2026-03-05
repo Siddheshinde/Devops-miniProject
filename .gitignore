@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# Docker
+*.tar
+
+# Kubernetes secrets
+*.secret.yaml
+
+# IDE files
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
